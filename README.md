@@ -14,11 +14,13 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
+<div>
+    <a href="https://www.loom.com/share/0c03ead96d424f61972e1e2c61d418e9">
+    </a>
+    <a href="https://www.loom.com/share/0c03ead96d424f61972e1e2c61d418e9">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0c03ead96d424f61972e1e2c61d418e9-b2ade43a2402ded8-full-play.gif">
+    </a>
+  </div>
 ## App Brainstorming (Step 4)
 1. Twitter (2 of my favorite features are (1)direct messages to other app users and (2)a bookmarks bar with saved posts)
 2. YouTube (2 of my favorite features are (1)a youtube shorts page where you can scroll through quick video snippets and (2) a notifications feature where you get notified when channels you subscribe to post)
